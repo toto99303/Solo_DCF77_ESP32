@@ -1,4 +1,4 @@
-# Solo DFC77 ESP32 transmitter
+# Solo DCF77 ESP32 transmitter
 So what is this? It's a standalone DCF77 transmitter designed to be used with any wrist watch that is capable of receiving the signal. (Casio Wave Ceptor series etc.)
 
 #### Features:
